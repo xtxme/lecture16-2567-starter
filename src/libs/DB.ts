@@ -1,0 +1,23 @@
+export const DB = {
+    students: [
+      {
+        studentId: "660610001",
+        firstName: "Matt",
+        lastName: "Damon",
+        program: "CPE",
+      },
+      {
+        studentId: "660610002",
+        firstName: "Cillian",
+        lastName: "Murphy",
+        program: "CPE",
+      },
+      {
+        studentId: "660615003",
+        firstName: "Emily",
+        lastName: "Blunt",
+        program: "ISNE",
+      },
+    ],
+  };
+  
